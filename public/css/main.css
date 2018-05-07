@@ -1,0 +1,22 @@
+
+.post-title{
+
+}
+.post-more{
+	cursor: pointer;
+	display: inline-block;
+	float: right;
+}
+
+.unset-appearance{
+    -webkit-appearance: unset;
+    -moz-appearance: unset;
+    -ms-appearance: unset;
+    -o-appearance: unset;
+    appearance: unset;
+    background: none;
+    padding: inherit;
+    margin: inherit;
+    size: inherit;
+    border: none;
+}
